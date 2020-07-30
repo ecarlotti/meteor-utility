@@ -7,7 +7,7 @@ Package.describe({
 
 Package.onUse(function (api) {
   Npm.depends({
-    '@urbanetic/utility': '0.1.6'
+    '@urbanetic/utility': '0.1.10'
   });
 
   api.versionsFrom('METEOR@1.2.1');
