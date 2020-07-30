@@ -4,7 +4,7 @@ A collection of utility modules.
 ## Installation
 
 ```
-meteor add urbanetic:utility
+meteor add ecarlotti:utility
 ```
 
 ### Meteor 1.2 and below
@@ -25,7 +25,7 @@ The path may be visible in error messages if you still have an older version of 
 ```
 npm ERR! command "/Users/Aram/.meteor/packages/meteor-tool/.1.1.4.1cp6taf++os.osx.x86_64+web.browser+web.cordova/mt-os.osx.x86_64/dev_bundle/bin/node" "/Users/Aram/.meteor/packages/meteor-tool/.1.1.4.1cp6taf++os.osx.x86_64+web.browser+web.cordova/mt-os.osx.x86_64/dev_bundle/bin/npm" "install" "@urbanetic/utility@0.0.5"
 npm ERR! cwd /Users/Aram/Development/Urbanetic/utility-js-npm-demo
-npm ERR! node -v v0.10.36
+npm ERR! node -v v0.10.37
 npm ERR! npm -v 1.4.28
 npm ERR! code E404
 ```

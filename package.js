@@ -1,8 +1,8 @@
 Package.describe({
-  name: 'urbanetic:utility',
+  name: 'ecarlotti:utility',
   summary: 'A collection of utility modules',
   version: '1.2.3_1',
-  git: 'https://github.com/urbanetic/meteor-utility.git'
+  git: 'https://github.com/ecarlotti/meteor-utility.git'
 });
 
 Package.onUse(function (api) {
